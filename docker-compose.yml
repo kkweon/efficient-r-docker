@@ -1,0 +1,9 @@
+version: "3"
+
+services:
+  book:
+    build: .
+    environment:
+      - TRAVIS=true
+    volumes:
+      - .:/code

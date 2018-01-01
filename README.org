@@ -1,0 +1,4 @@
+* Efficient R Programming Docker Build
+
+- Install all dependencies required for Efficient R Packages
+- Install Korean Support for PDF Build
